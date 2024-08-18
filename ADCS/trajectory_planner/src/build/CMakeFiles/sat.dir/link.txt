@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libsat.a CMakeFiles/sat.dir/src/planner/Satellite.cpp.o CMakeFiles/sat.dir/src/planner/GeneralUtil.cpp.o CMakeFiles/sat.dir/src/ArmaNumpy.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libsat.a

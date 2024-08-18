@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sat_ADCS_satellite"
+version = "0.0.1"
+authors = [
+  { name="Patrick McKeen", email="pmckeen@mit.edu" },
+]
+description = "satellite functions for satellite ADCS"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3.10",
+    "License :: Unknown/Private",#OSI Approved :: MIT License",
+    "Operating System :: Unknown",#OS Independent",
+]
+
+[tool.setuptools]
+include-package-data= false
+
+[project.urls]
+"Homepage" = "nope.com"
+"Bug Tracker" = "nope.com"

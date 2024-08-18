@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libtp_nopy.a CMakeFiles/tp_nopy.dir/src/ArmaCSV.cpp.o CMakeFiles/tp_nopy.dir/src/planner/GeneralUtil.cpp.o CMakeFiles/tp_nopy.dir/src/planner/PlannerUtil.cpp.o CMakeFiles/tp_nopy.dir/src/planner/Satellite.cpp.o CMakeFiles/tp_nopy.dir/src/planner/OldPlanner.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libtp_nopy.a

@@ -1,0 +1,9 @@
+/Users/patrickmckeen/Documents/GitHub/McKeenADS/GeneralizedADS/ADCS/trajectory_planner/src/build/CMakeFiles/tp_nopy.dir
+/Users/patrickmckeen/Documents/GitHub/McKeenADS/GeneralizedADS/ADCS/trajectory_planner/src/build/CMakeFiles/tp.dir
+/Users/patrickmckeen/Documents/GitHub/McKeenADS/GeneralizedADS/ADCS/trajectory_planner/src/build/CMakeFiles/sat.dir
+/Users/patrickmckeen/Documents/GitHub/McKeenADS/GeneralizedADS/ADCS/trajectory_planner/src/build/CMakeFiles/sat_nopy.dir
+/Users/patrickmckeen/Documents/GitHub/McKeenADS/GeneralizedADS/ADCS/trajectory_planner/src/build/CMakeFiles/tp_test.dir
+/Users/patrickmckeen/Documents/GitHub/McKeenADS/GeneralizedADS/ADCS/trajectory_planner/src/build/CMakeFiles/tplaunch.dir
+/Users/patrickmckeen/Documents/GitHub/McKeenADS/GeneralizedADS/ADCS/trajectory_planner/src/build/CMakeFiles/pysat.dir
+/Users/patrickmckeen/Documents/GitHub/McKeenADS/GeneralizedADS/ADCS/trajectory_planner/src/build/CMakeFiles/edit_cache.dir
+/Users/patrickmckeen/Documents/GitHub/McKeenADS/GeneralizedADS/ADCS/trajectory_planner/src/build/CMakeFiles/rebuild_cache.dir

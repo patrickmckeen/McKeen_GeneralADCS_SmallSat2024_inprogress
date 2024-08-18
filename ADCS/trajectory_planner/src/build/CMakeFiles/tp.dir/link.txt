@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libtp.a CMakeFiles/tp.dir/src/planner/Satellite.cpp.o CMakeFiles/tp.dir/src/planner/GeneralUtil.cpp.o CMakeFiles/tp.dir/src/planner/OldPlanner.cpp.o CMakeFiles/tp.dir/src/planner/PlannerUtilPy.cpp.o CMakeFiles/tp.dir/src/planner/PlannerUtil.cpp.o CMakeFiles/tp.dir/src/ArmaNumpy.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libtp.a
